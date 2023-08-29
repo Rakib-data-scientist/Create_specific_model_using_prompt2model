@@ -1,1 +1,23 @@
 # Create_specific_model_using_prompt2model
+1.
+![Prompt2Model_page-0001](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/b78f69ae-52fc-4f38-b92a-5439b926f431)
+.
+![Prompt2Model_page-0002](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/bf8260a9-3e36-484f-94e9-f5607d484777)
+3.
+![Prompt2Model_page-0003](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/ecf34852-6314-4bfa-a8b7-03cc2ec1b1ac)
+4.
+![Prompt2Model_page-0004](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/00eed768-4ee8-4b72-a5a1-37cb0731a5b6)
+5.
+![Prompt2Model_page-0005](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/985debe1-1c9b-4551-ac2e-d9a2067cf6ea)
+6.
+![Prompt2Model_page-0006](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/3cf5c4e8-bd1c-4108-ad97-e0495df9a528)
+7.
+![Prompt2Model_page-0007](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/0c3a7c27-f142-4176-8d15-75324eba98cc)
+8.
+![Prompt2Model_page-0008](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/5f18fe11-514b-4cf4-89fd-db3af20992fe)
+9.
+![Prompt2Model_page-0009](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/2ec6b52e-4fde-494c-8ae3-33ccf1b8251c)
+10.
+![Prompt2Model_page-0010](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/f9b7f511-187d-4c16-9141-141415a001a8)
+11.
+![Prompt2Model_page-0011](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/71398859-172e-4954-874a-5e9752ae0489)
