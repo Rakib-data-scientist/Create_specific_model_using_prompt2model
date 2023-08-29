@@ -1,7 +1,7 @@
 # Create_specific_model_using_prompt2model
 1.
 ![Prompt2Model_page-0001](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/b78f69ae-52fc-4f38-b92a-5439b926f431)
-.
+2.
 ![Prompt2Model_page-0002](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/bf8260a9-3e36-484f-94e9-f5607d484777)
 3.
 ![Prompt2Model_page-0003](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/ecf34852-6314-4bfa-a8b7-03cc2ec1b1ac)
