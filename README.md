@@ -1,6 +1,6 @@
 # Create_specific_model_using_prompt2model
 
-** official github : https://github.com/neulab/prompt2model
+** official github : https://github.com/neulab/prompt2model **
 1.
 ![Prompt2Model_page-0001](https://github.com/Rakib-data-scientist/Create_specific_model_using_prompt2model/assets/137823730/20828f93-5729-41ad-9713-6a4456056f32)
 2.
