@@ -1,4 +1,4 @@
-Official Github : https://github.com/neulab/prompt2model
+Inspired by :  https://github.com/neulab/prompt2model
 
 
 1.
